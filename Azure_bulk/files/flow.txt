@@ -1,0 +1,6 @@
+Please refer to the below flow of our applications  
+My way
+console.redhat.com------->Create source azure --------->Get token -------> get ansible code ------> generate vm -----> run ansible code ----> pre image status 
+
+Engineer way-->
+Launch vm------>Get token------> run playbook ------> Get tanent ID and  name ----> add in csv file ----> 
